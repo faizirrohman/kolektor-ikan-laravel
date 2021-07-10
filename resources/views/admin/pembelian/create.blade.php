@@ -87,6 +87,7 @@
                               </div>
                               <div class="card-header card-header-primary">
                                     <button type="submit" class="btn btn-primary">Simpan</button>
+                                    <a href="{{ route('admin.data-pembelian.index') }}" class="btn btn-danger">Cancel</a>
                               </div>
                         </form>
                   </div>

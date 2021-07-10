@@ -75,6 +75,7 @@
                                     <button type="submit" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
                                           Update
                                     </button>
+                                    <a href="{{ route('admin.data-penjual.index') }}" class="btn btn-danger">Cancel</a>
                               </div>
                         </form>
                   </div>
